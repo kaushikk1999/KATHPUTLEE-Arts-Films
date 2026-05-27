@@ -57,7 +57,7 @@ export default function Originals() {
         {/* Hero Section */}
         <section className="relative w-full flex items-center justify-center overflow-hidden" style={{ height: '100vh', minHeight: '600px' }}>
           <div className="absolute inset-0 z-0 hero-img-container">
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#1f0f0d]/30 to-[#1f0f0d]/80 z-10"></div>
+            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#1c1c1c]/10 to-[#1c1c1c]/40 z-10"></div>
             <img 
               alt="Cinematic Hero" 
               className="hero-img w-full h-full object-cover object-center opacity-80" 

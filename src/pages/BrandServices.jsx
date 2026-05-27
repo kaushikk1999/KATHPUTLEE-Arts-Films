@@ -69,10 +69,10 @@ export default function BrandServices() {
           <div className="absolute inset-0 z-0">
             <img 
               alt="Cinematic camera setup in a dark studio" 
-              className="w-full h-full object-cover opacity-60 filter grayscale brightness-75 ken-burns-bg" 
+              className="w-full h-full object-cover opacity-80 filter grayscale ken-burns-bg" 
               src="https://lh3.googleusercontent.com/aida-public/AB6AXuCenu0RnCmlydvkJjXMKoJfbViVKFMG7p12dj32Cu59gUBrO857lMGSAZ2LfCF1DPrtHFlzCdyuN7G4ECVjvAgNGawfHCqdilrQcKs4SJTDuLQwQul3oYOWwMTCVonQVLF_sXrBgTOCfEPDJOA1ggqPkOPrunmoLoMx9rTCGj-JU9c6VD2XHf40mBYxZlUTDrY-QB3DOJidRjhn2HaRVSDI3lRgnrItD7JVTOQx7qsPkFvlKzpZLRdVWu9g2gEseHtXcPgDVcV4gKta"
             />
-            <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent, rgba(10,10,10,0.5), #0A0A0A)' }}></div>
+            <div className="absolute inset-0" style={{ background: 'linear-gradient(to bottom, transparent, rgba(28,28,28,0.4), #1c1c1c)' }}></div>
           </div>
           
           <div className="relative z-10 max-w-container-max mx-auto w-full grid grid-cols-1 md:grid-cols-12 gap-gutter items-center">

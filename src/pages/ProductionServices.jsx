@@ -80,9 +80,9 @@ export default function ProductionServices() {
               alt="Cinematic production" 
               className="animate-ken-burns-alt" 
               src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-0eVmzk43nF4e44SvVwRt93dM7IOESe1oDJcLGQdHQr2FemK4MrGta96nycIpaOsgbNKgqCD7V4zoywqJ1rAV5JiYlLKZ6fIRUcqOxeJt07iINvBWgGkmsZLmtib3cs7tEWn7_JPcP8daOO0-Vhqo0g9QJ8KI8h3NkjxDZvhundVHE0G1h6IP7Z6dIIDo98QSqkRIpmz1W2rVMdOBJkt4_d_7tiCBZt2srutg8U_sRiKq1boCkyusNlY-y9sVAd_VBYq-oIvJ_3LC"
-              style={{ mixBlendMode: 'luminosity', opacity: 0.4 }}
+              style={{ mixBlendMode: 'luminosity', opacity: 0.6 }}
             />
-            <div className="home-hero-overlay" style={{ background: 'linear-gradient(to top, #0A0A0A, rgba(10,10,10,0.8), transparent)' }}></div>
+            <div className="home-hero-overlay" style={{ background: 'linear-gradient(to top, #1a1a1a, rgba(26,26,26,0.6), transparent)' }}></div>
           </div>
           
           <div className="home-hero-content" style={{ maxWidth: '800px', margin: '0 auto', width: '100%' }}>
