@@ -1,0 +1,22 @@
+.section-intro {
+  margin-bottom: var(--space-12);
+  max-width: 800px;
+}
+
+.section-intro.centered {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.intro-subtitle {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: var(--space-2);
+}
+
+.intro-title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+}
